@@ -1,0 +1,1 @@
+console.log('checking diff -- diff between sorking directory and stagging area')
